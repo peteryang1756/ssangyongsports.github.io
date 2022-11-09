@@ -1,0 +1,43 @@
+textarea {
+  -webkit-appearance: none;
+  appearance: none;
+}
+
+form .form-control {
+  margin-bottom: 15px;
+  width: 100%;
+  padding: 8px 10px;
+  border: 2px solid #ddd;
+  outline: 0;
+  font-size: 16px;
+  border-radius: 3px;
+  background: white;
+}
+
+form .form-control:focus {
+  border-color: #444;
+}
+
+form .form-group {
+  margin-bottom: 15px;
+}
+
+form .form-group label {
+  display: block;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+form .form-group .form-control {
+  margin-bottom: 0;
+}
+
+button {
+  background: #ddd;
+  color: black;
+  border-radius: 3px;
+  border: none;
+  padding: 10px 12px;
+  font-size: 14px;
+  cursor: pointer;
+}
