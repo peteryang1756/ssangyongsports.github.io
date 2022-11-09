@@ -1,3 +1,11 @@
+
+.example-title {
+  font-size: 12px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #ccc;
+  margin-bottom: 15px;
+}
 textarea {
   -webkit-appearance: none;
   appearance: none;
